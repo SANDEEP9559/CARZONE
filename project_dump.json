@@ -1,0 +1,323 @@
+[
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$320000$s7iRXuzoEKIsevte37pygC$+OWmJDAbvB3gGANcnlrxxm//asDG3AeEHEFcTHsvIG0=",
+        "last_login": "2022-04-24T17:36:26.383Z",
+        "is_superuser": true,
+        "username": "sandeep",
+        "first_name": "",
+        "last_name": "",
+        "email": "sandeepkumarbansal0@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-04-23T17:00:39.359Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$320000$jzqiORUtHvIbggICpDtqe6$3Wka3PH7b/OmakTsDA6VlPz6HHU1hDqdpGiujpJ5Hyk=",
+        "last_login": "2022-04-24T14:57:35.119Z",
+        "is_superuser": false,
+        "username": "bansal",
+        "first_name": "sandeep",
+        "last_name": "kumar",
+        "email": "recteh246@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-04-24T14:57:34.826Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$320000$i1sFN7hGnslufMZeNaSMdm$XLxwJ5nYQ0Un/XoPlulgP1yjIQiI7g6zcz85FaClc2E=",
+        "last_login": "2022-04-24T15:13:15.093Z",
+        "is_superuser": false,
+        "username": "sandeepji",
+        "first_name": "sandeep",
+        "last_name": "kumar",
+        "email": "sandeep@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-04-24T15:12:59.703Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!V41QVofwQb8KBjsU6bSy4aiygW9EeICuwPrZNXmH",
+        "last_login": "2022-04-24T17:15:30.257Z",
+        "is_superuser": false,
+        "username": "sandeep5",
+        "first_name": "Sandeep",
+        "last_name": "Kumar",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-04-24T16:40:10.547Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!qXohs6PyZelk0jlZD2hjx5WeO2nFY315mhRYCWcg",
+        "last_login": "2022-04-24T19:39:43.749Z",
+        "is_superuser": false,
+        "username": "sandeep4",
+        "first_name": "SANDEEP",
+        "last_name": "KUMAR",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-04-24T17:05:21.843Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "1uwe05arq0uc2dnf82av4pq13i2wh2kn",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGllrr7OJKek5g7X-4QCypTipEHeHSCmgfTPzXsLxtha39bS4OYqzUOL0u3kOj1R3EO9cb02GVtdl9nJX5EG7vLaYnpfD_Tso3Mu3NmjIUEBUExOEgbJF0AE5syKrR5s9e_LRA0IEoqATZGIcmYaJGMT7A8QMN1s:1nicD8:SJskb0cRHFBqtP3mql1dLqq4TDWyUkOe-C86VAtrtw4",
+        "expire_date": "2022-05-08T13:23:34.118Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "63mmfg4t6uykjdmpt8038g36spguympn",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGllrr7OJKek5g7X-4QCypTipEHeHSCmgfTPzXsLxtha39bS4OYqzUOL0u3kOj1R3EO9cb02GVtdl9nJX5EG7vLaYnpfD_Tso3Mu3NmjIUEBUExOEgbJF0AE5syKrR5s9e_LRA0IEoqATZGIcmYaJGMT7A8QMN1s:1nig9q:_p01b35s8EqdqK9EHKFBeM4dZ7WsfstWlEvUFUN_NMQ",
+        "expire_date": "2022-05-08T17:36:26.387Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "ag030hb7j6k8vbj4n81zs686kqo5h0f7",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGllrr7OJKek5g7X-4QCypTipEHeHSCmgfTPzXsLxtha39bS4OYqzUOL0u3kOj1R3EO9cb02GVtdl9nJX5EG7vLaYnpfD_Tso3Mu3NmjIUEBUExOEgbJF0AE5syKrR5s9e_LRA0IEoqATZGIcmYaJGMT7A8QMN1s:1niJ8y:mNnjnQTZs-tSNJzShZ-fTPt1kVK7QQbbL8L_T6_upFM",
+        "expire_date": "2022-05-07T17:02:00.971Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "dpc6sifsc68e7ed9w24bdtlkeb8ejaw9",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGlnrlX9Q0nOGaHcd4wCypTipIu4OkVJA-2bmbWqgdSnD2sd5mJK6KKdOvxuTPMe6g_Sgem9aWl3mifWu6IN2fWtpfF0P9--gUC_fGiygcV4gZEPZRisSXASfxfEZbSL00QbhHCBGYxAhkWdggxY8I6v3B8AdNvQ:1nii59:NzoRGPm1_R_Gx3VPjfs6xkqE3FXcZjRCasNjZ-wouQI",
+        "expire_date": "2022-05-08T19:39:43.753Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 1,
+    "fields": {
+        "firstname": "Sandeep",
+        "lastname": "Kumar",
+        "designation": "Web developer",
+        "photo": "photos/2022/04/23/avatar-1_7IRSvm8.jpg",
+        "facebook_link": "https://www.youtube.com/",
+        "twitter_link": "https://www.youtube.com/",
+        "linkedin_link": "https://www.youtube.com/",
+        "created_date": "2022-04-23T17:16:38.158Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 2,
+    "fields": {
+        "firstname": "Divyansh",
+        "lastname": "Pandey",
+        "designation": "Data Scientist",
+        "photo": "photos/2022/04/23/avatar-3.jpg",
+        "facebook_link": "https://www.youtube.com/",
+        "twitter_link": "https://www.youtube.com/",
+        "linkedin_link": "https://www.youtube.com/",
+        "created_date": "2022-04-23T17:32:07.480Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 3,
+    "fields": {
+        "firstname": "Neeraj",
+        "lastname": "Kumar",
+        "designation": "Project Manager",
+        "photo": "photos/2022/04/23/avatar-12.jpg",
+        "facebook_link": "https://www.youtube.com/",
+        "twitter_link": "https://www.youtube.com/",
+        "linkedin_link": "https://www.youtube.com/",
+        "created_date": "2022-04-23T17:32:48.076Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 4,
+    "fields": {
+        "firstname": "Sarthak",
+        "lastname": "Dwivedi",
+        "designation": "Marketing Manager",
+        "photo": "photos/2022/04/23/avatar-11_BzqvHfA.jpg",
+        "facebook_link": "https://www.youtube.com/",
+        "twitter_link": "https://www.youtube.com/",
+        "linkedin_link": "https://www.youtube.com/",
+        "created_date": "2022-04-23T17:33:52.537Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "car_title": "2017 Ferrari 488 GTB",
+        "state": "ND",
+        "city": "PrayagRaj",
+        "color": "White",
+        "model": "2015–2020",
+        "year": 2022,
+        "condition": "Used",
+        "price": 40000,
+        "description": "<p>The&nbsp;<strong>Ferrari 488</strong>&nbsp;(Type F142M) is a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Rear_mid-engine,_rear-wheel_drive_layout\" title=\"Rear mid-engine, rear-wheel drive layout\">mid-engine</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Sports_car\" title=\"Sports car\">sports car</a>&nbsp;produced by the Italian automobile manufacturer&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari\" title=\"Ferrari\">Ferrari</a>. The car replaced the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_458\" title=\"Ferrari 458\">458</a>, being the first mid-engine Ferrari to use a turbocharged V8 since the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_F40\" title=\"Ferrari F40\">F40</a>.</p>\r\n\r\n<p>The car is powered by a 3.9-litre&nbsp;<a href=\"https://en.wikipedia.org/wiki/Twin-turbocharged\" title=\"Twin-turbocharged\">twin-turbocharged</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/V8_engine\" title=\"V8 engine\">V8 engine</a>, smaller in displacement but generating a higher power output than the 458&#39;s&nbsp;<a href=\"https://en.wikipedia.org/wiki/Naturally_aspirated_engine\" title=\"Naturally aspirated engine\">naturally aspirated engine</a>. The 488 GTB was named &quot;The Supercar of the Year 2015&quot; by car magazine&nbsp;<em><a href=\"https://en.wikipedia.org/wiki/Top_Gear_(magazine)\" title=\"Top Gear (magazine)\">Top Gear</a></em>, as well as becoming&nbsp;<em><a href=\"https://en.wikipedia.org/wiki/Motor_Trend\" title=\"Motor Trend\">Motor Trend</a></em>&#39;s 2017 &quot;Best Driver&#39;s Car&quot;.<a href=\"https://en.wikipedia.org/wiki/Ferrari_488#cite_note-7\">[7]</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jeremy_Clarkson\" title=\"Jeremy Clarkson\">Jeremy Clarkson</a>&nbsp;announced the 488 Pista as his 2019 Supercar of the Year.<a href=\"https://en.wikipedia.org/wiki/Ferrari_488#cite_note-8\">[8]</a>&nbsp;The 488 was succeeded by the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_F8_Tributo\" title=\"Ferrari F8 Tributo\">F8 Tributo</a>&nbsp;in February 2019</p>",
+        "car_photo": "photos/2022/04/24/1902536891.jpg",
+        "car_photo_1": "photos/2022/04/24/1902536917.jpg",
+        "car_photo_2": "photos/2022/04/24/1902537043.jpg",
+        "car_photo_3": "photos/2022/04/24/1902537077.jpg",
+        "car_photo_4": "photos/2022/04/24/1902537082.jpg",
+        "features": "Air Conditioning,Alarm System,ParkAssist,Power Steering,Reversing Camera,Auto Start/Stop,Bluetooth Handset",
+        "body_style": "2 door car",
+        "engine": "3.9 L F154 CB twin-turbocharged V8[2]",
+        "transmission": "manual",
+        "interior": "four seater",
+        "miles": 400,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "88974",
+        "milage": 29,
+        "fuel_type": "petrol",
+        "no_of_owners": "23",
+        "is_featured": true,
+        "created_date": "2022-04-24T01:46:13Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "car_title": "2017 Ford Edge",
+        "state": "CT",
+        "city": "Ranchi",
+        "color": "black",
+        "model": "new",
+        "year": 2021,
+        "condition": "new",
+        "price": 39000,
+        "description": "<p>The&nbsp;<strong>Ford Edge</strong>&nbsp;is a range of&nbsp;<a href=\"https://en.wikipedia.org/wiki/Crossover_(automobile)\" title=\"Crossover (automobile)\">crossover SUVs</a>&nbsp;manufactured by the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company\" title=\"Ford Motor Company\">Ford Motor Company</a>. Introduced for the 2007 model year, the Edge is the first&nbsp;<a href=\"https://en.wikipedia.org/wiki/Mid-size_CUV\" title=\"Mid-size CUV\">mid-size CUV</a>&nbsp;marketed by Ford in North America; the model line is currently in its second generation. Deriving its name from a trim package of the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Ranger_(Americas)\" title=\"Ford Ranger (Americas)\">Ford Ranger</a>, the Ford Edge is positioned between the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Escape\" title=\"Ford Escape\">Ford Escape</a>&nbsp;and the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Explorer\" title=\"Ford Explorer\">Ford Explorer</a>&nbsp;within the Ford product line.</p>\r\n\r\n<p>Sharing its underpinnings with the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Fusion_(Americas)\" title=\"Ford Fusion (Americas)\">Ford Fusion sedan</a>, Ford has also produced the model line as the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Lincoln_MKX\" title=\"Lincoln MKX\">Lincoln MKX</a>&nbsp;(since 2019, the Lincoln Nautilus); the first generation was also produced as the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Mazda_CX-9\" title=\"Mazda CX-9\">Mazda CX-9</a>. The second generation is also marketed by&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_of_Europe\" title=\"Ford of Europe\">Ford of Europe</a>, positioned between the Kuga (Escape) and the Explorer PHEV.</p>\r\n\r\n<p>All production of the Ford Edge is sourced from&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company_of_Canada\" title=\"Ford Motor Company of Canada\">Ford of Canada</a>&nbsp;at&nbsp;<a href=\"https://en.wikipedia.org/wiki/Oakville_Assembly\" title=\"Oakville Assembly\">Oakville Assembly</a>&nbsp;(<a href=\"https://en.wikipedia.org/wiki/Oakville,_Ontario\" title=\"Oakville, Ontario\">Oakville, Ontario</a>) alongside the Nautilus.</p>",
+        "car_photo": "photos/2022/04/24/1901478607.jpg",
+        "car_photo_1": "photos/2022/04/24/1901478618.jpg",
+        "car_photo_2": "photos/2022/04/24/1901478646.jpg",
+        "car_photo_3": "photos/2022/04/24/1901478672.jpg",
+        "car_photo_4": "photos/2022/04/24/1901478687.jpg",
+        "features": "Airbags,Air Conditioning,Alarm System,ParkAssist,Reversing Camera,Bluetooth Handset",
+        "body_style": "5-door SUV",
+        "engine": "3,496 cc (213.3 cu in) 3.5 Duratec V6",
+        "transmission": "manual",
+        "interior": "5 seater",
+        "miles": 200,
+        "doors": "5",
+        "passengers": 8,
+        "vin_no": "WHIDN647876387RIEKNJ",
+        "milage": 30,
+        "fuel_type": "diesel",
+        "no_of_owners": "4",
+        "is_featured": true,
+        "created_date": "2022-04-24T02:00:05Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "car_title": "2017 Ford Super duty",
+        "state": "HI",
+        "city": "Ahemadabad",
+        "color": "Black",
+        "model": "7.3 L PowerStroke (International T444E)",
+        "year": 2016,
+        "condition": "New",
+        "price": 690,
+        "description": "<p>The&nbsp;<strong>Ford Super Duty</strong>&nbsp;(short for F-Series Super Duty) is a series of trucks manufactured by the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company\" title=\"Ford Motor Company\">Ford Motor Company</a>&nbsp;since the 1999 model year. Slotted above the consumer-oriented Ford F-150, the Super Duty trucks are an expansion of the Ford F-Series range, from the F-250 to the F-550. Rather than adapting lighter-duty trucks for heavier use, Super Duty trucks have been designed as a dedicated variant of the Ford F-Series, including pickup trucks and chassis cab vehicles; the Ford F-450 is the largest pickup truck offered for sale in North America.</p>",
+        "car_photo": "photos/2022/04/24/1894300894.jpg",
+        "car_photo_1": "photos/2022/04/24/1894300905.jpg",
+        "car_photo_2": "photos/2022/04/24/1894300920.jpg",
+        "car_photo_3": "photos/2022/04/24/1900155012.jpg",
+        "car_photo_4": "photos/2022/04/24/1900155133.jpg",
+        "features": "Cruise Control,Audio Interface,Air Conditioning,Alarm System,ParkAssist,Power Steering",
+        "body_style": "Manual",
+        "engine": "6.0 L PowerStroke (International VT365)",
+        "transmission": "manual",
+        "interior": "Sport",
+        "miles": 12000,
+        "doors": "4",
+        "passengers": 6,
+        "vin_no": "WSJHCDJHK367487783N",
+        "milage": 30,
+        "fuel_type": "Petrol",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_date": "2022-04-24T02:05:15Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 4,
+    "fields": {
+        "car_title": "2017  Jaguar F pace",
+        "state": "NM",
+        "city": "Chennai",
+        "color": "blue",
+        "model": "2.0 Turbocharged Ingenium I4",
+        "year": 2018,
+        "condition": "Used",
+        "price": 12000,
+        "description": "<p>The&nbsp;<strong>Jaguar F-Pace</strong>&nbsp;(X761) is a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Compact_executive_car\" title=\"Compact executive car\">compact luxury</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Crossover_SUV\" title=\"Crossover SUV\">crossover SUV</a>&nbsp;made by&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jaguar_Land_Rover\" title=\"Jaguar Land Rover\">Jaguar Land Rover</a>, a British&nbsp;<a href=\"https://en.wikipedia.org/wiki/Automaker\" title=\"Automaker\">car manufacturer</a>, under their&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jaguar_Cars\" title=\"Jaguar Cars\">Jaguar marque</a>. It is the first model to be built by Jaguar in the SUV class. It was formally announced at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/North_American_International_Auto_Show#2015\" title=\"North American International Auto Show\">2015 North American International Auto Show</a>&nbsp;in Detroit, with sales commencing in 2016 following an unveiling at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/International_Motor_Show_Germany#2015\" title=\"International Motor Show Germany\">International Motor Show Germany</a>&nbsp;in Frankfurt in September 2015.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-4\">[4]</a>&nbsp;The design of the F-Pace is based on the 2013&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jaguar_C-X17\" title=\"Jaguar C-X17\">Jaguar C-X17</a>&nbsp;concept car.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-BBC_News_120115-5\">[5]</a>&nbsp;The 2017 Jaguar F-PACE has been named the honorary winner of the 2017 World Car of the Year and World Car Design of the Year Awards at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/New_York_International_Auto_Show\" title=\"New York International Auto Show\">New York International Auto Show</a>.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-6\">[6]</a></p>",
+        "car_photo": "photos/2022/04/24/1902932503.jpg",
+        "car_photo_1": "photos/2022/04/24/1902932514.jpg",
+        "car_photo_2": "photos/2022/04/24/1902932528.jpg",
+        "car_photo_3": "photos/2022/04/24/1902932528_LZ0ECsG.jpg",
+        "car_photo_4": "photos/2022/04/24/1902932542.jpg",
+        "features": "Cruise Control,Air Conditioning,ParkAssist,Power Steering,Reversing Camera,Bluetooth Handset",
+        "body_style": "5-door 4x4",
+        "engine": "2.0 Turbocharged Ingenium I4",
+        "transmission": "manual",
+        "interior": "8 seater",
+        "miles": 1990,
+        "doors": "4",
+        "passengers": 6,
+        "vin_no": "WVGVDJSCBMKB456783783",
+        "milage": 30,
+        "fuel_type": "Diesel",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_date": "2022-04-24T02:20:52Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 5,
+    "fields": {
+        "car_title": "2018 Toyota 4 runner",
+        "state": "FL",
+        "city": "New Delhi",
+        "color": "Black",
+        "model": "Toyota Land Cruiser Prado/Lexus GX (J150)",
+        "year": 2005,
+        "condition": "New",
+        "price": 12233,
+        "description": 
