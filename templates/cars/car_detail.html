@@ -12,7 +12,7 @@
         <div class="breadcrumb-areas">
             <h1>{{single_car.car_title}}</h1>
             <ul class="breadcrumbs">
-                <li><a href="index.html">Home</a></li>
+                <li><a href="{% url 'home' %}">Home</a></li>
                 <li class="active">{{single_car.car_title}}</li>
             </ul>
         </div>
@@ -28,6 +28,7 @@
                 <div class="car-details-section">
                     <!-- Heading start -->
                     <div class="heading-car clearfix">
+                      {% include 'includes/messages.html'%}
 
                         <div class="pull-left">
                             <h3>{{single_car.car_title}}</h3>
@@ -222,7 +223,7 @@
                             </button>
                           </div>
                           <div class="modal-body">
-                            <form action="" method="POST">
+                            <form action="{% url 'inquiry' %}" method="POST">
                               {% csrf_token %}
 
                               {% if user.is_authenticated %}
